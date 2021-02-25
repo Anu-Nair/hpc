@@ -1,3 +1,3 @@
 # hpc
 
-How to run the codes?
+Codes based on CUDA, MPI and OpenMP
