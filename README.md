@@ -1,4 +1,4 @@
-# hpc
+# High Performance Computing Lab (HPC)
 
 Codes based on CUDA, MPI and OpenMP
 
